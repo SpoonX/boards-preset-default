@@ -4,8 +4,8 @@ module.exports = {
 
   tasks: {
     // Dumps all the tasks to the cli.
-    task: {
-      tasks: () => {
+    tasks: {
+      task: () => {
         console.log('[Available tasks]: \n');
 
         console.log(Reflect.ownKeys(module.exports.tasks).sort().map(task => `- ${task}`).join('\n'), '\n');

@@ -4,11 +4,9 @@ module.exports = {
 
   tasks: {
     // Dumps all the tasks to the cli.
-    tasks: {
+    greet: {
       task: () => {
-        console.log('[Available tasks]: \n');
-
-        console.log(Reflect.ownKeys(module.exports.tasks).sort().map(task => `- ${task}`).join('\n'), '\n');
+        console.log('Greetings from within. <Insert obligatory "Hello World"> here.');
       }
     }
   },

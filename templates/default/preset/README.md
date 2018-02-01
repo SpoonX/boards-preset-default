@@ -14,6 +14,8 @@ This preset adds the following tasks to your project.
 
 Outputs all available tasks for this preset. Could be useful if you don't have the README handy.
 
+**Note to developer:** Can't find this task in `index.js`? That's correct. This is a default task. Override it if you must.
+
 ## License
 
 MIT

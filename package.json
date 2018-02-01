@@ -25,6 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "file-exists": "^5.0.1",
-    "has-yarn": "^1.0.0"
+    "has-yarn": "^1.0.0",
+    "shelljs": "^0.8.1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "boards-preset-default",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Default presets for the Boards CLI",
   "main": "index.js",
   "scripts": {

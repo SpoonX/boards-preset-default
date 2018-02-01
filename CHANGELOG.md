@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/SpoonX/boards-preset-default/compare/v1.0.1...v1.1.0) (2018-02-01)
+
+
+### Features
+
+* **project:** add a batch of new default tasks ([5262745](https://github.com/SpoonX/boards-preset-default/commit/5262745))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2018-01-26)
 

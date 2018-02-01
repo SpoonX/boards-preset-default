@@ -10,6 +10,10 @@
 
 This preset adds the following tasks to your project.
 
+### {{name}}:greet
+
+Just says hello.
+
 ### {{name}}:tasks
 
 Outputs all available tasks for this preset. Could be useful if you don't have the README handy.

@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/SpoonX/boards-preset-default/compare/v1.1.0...v1.1.1) (2018-04-12)
+
+
+### Bug Fixes
+
+* **task:** safe check for which ([48b1dd2](https://github.com/SpoonX/boards-preset-default/commit/48b1dd2))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/SpoonX/boards-preset-default/compare/v1.0.1...v1.1.0) (2018-02-01)
 
